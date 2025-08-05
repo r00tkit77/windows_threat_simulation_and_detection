@@ -144,6 +144,7 @@ Alert trigger:
 
 <img width="975" height="283" alt="image" src="https://github.com/user-attachments/assets/44635d10-7520-495a-8fd3-d3c16589e92e" />
 Note- There are 2 alerts for procdump. Both have different image file, procdump.exe and cmd.exe
+
 <br><br>
 
 UAC Bypass with Fodhelper:
